@@ -1,0 +1,9 @@
+Name:  , Department: 
+Monthly Gross Salary: $0.00, Monthly Bonus: 0.00%, Taxes: 0.00%
+Paycheck: $0.00
+
+Distance Traveled: 0.00 miles, Traveling Time: 9.00 hours
+Average Speed: 0.00 miles per hour
+
+Number of Coffee Cups Sold: 343, Cost: $0.00 per cup
+Sales Amount = $0.00
